@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="model.Admin"/>
+    <fullyQualifiedTypeName name="jdbc.dao.AdminDAO"/>
+    <fullyQualifiedTypeName name="jdbc.dao.StudentDAO"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.text.DateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="model.User"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="model.ky"/>
+    <fullyQualifiedTypeName name="jdbc.dao.DAO"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="test.Student"/>
+    <fullyQualifiedTypeName name="test.EnginneeringStudent"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="model.Mon"/>
+    <fullyQualifiedTypeName name="servlet.Score"/>
+    <fullyQualifiedTypeName name="model.Score"/>
+    <fullyQualifiedTypeName name="jdbc.dao.ScoreDAO"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="model.Demo"/>
+    <fullyQualifiedTypeName name="servlet.Setting"/>
+    <fullyQualifiedTypeName name="jdbc.dao.SettingDAO"/>
+    <fullyQualifiedTypeName name="model.Setting"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="jdbc.dao.UserDAO"/>
+    <fullyQualifiedTypeName name="jdbc.dao.MonDAO"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+</qualifiedTypeNameHistroy>

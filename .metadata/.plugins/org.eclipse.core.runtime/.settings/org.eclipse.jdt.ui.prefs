@@ -1,0 +1,13 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.lang.Cloneable"><rhs name\="java.util.Date"/></lhs><lhs name\="java.util.Date"><rhs name\="java.util.Date"/></lhs><lhs name\="model.User"><rhs name\="model.User"/></lhs><lhs name\="model.Mon"><rhs name\="model.Mon"/></lhs><lhs name\="model.ky"><rhs name\="model.ky"/></lhs><lhs name\="java.util.Map"><rhs name\="java.util.HashMap"/></lhs><lhs name\="test.Student"><rhs name\="test.Student"/><rhs name\="test.EnginneeringStudent"/></lhs><lhs name\="test.EnginneeringStudent"><rhs name\="test.EnginneeringStudent"/></lhs><lhs name\="jdbc.dao.DAO"><rhs name\="jdbc.dao.ScoreDAO"/><rhs name\="jdbc.dao.SettingDAO"/><rhs name\="jdbc.dao.UserDAO"/><rhs name\="jdbc.dao.MonDAO"/></lhs><lhs name\="jdbc.dao.MonDAO"><rhs name\="jdbc.dao.MonDAO"/></lhs><lhs name\="model.Score"><rhs name\="model.Score"/></lhs><lhs name\="jdbc.dao.ScoreDAO"><rhs name\="jdbc.dao.ScoreDAO"/></lhs><lhs name\="jdbc.dao.SettingDAO"><rhs name\="jdbc.dao.SettingDAO"/></lhs><lhs name\="jdbc.dao.UserDAO"><rhs name\="jdbc.dao.UserDAO"/></lhs></history>
+content_assist_number_of_computers=20
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
